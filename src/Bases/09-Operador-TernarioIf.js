@@ -1,4 +1,4 @@
-//
+//Operador Ternario If
 const activo = true;
 
 // let mensaje = "";
